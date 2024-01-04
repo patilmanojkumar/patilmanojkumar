@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **patil.manojkumar@hotmail.com**
 
-- ⚡ Fun fact **Passionate about agriculture and data-driven solutions**
+- ⚡ Fun fact **Not a Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
