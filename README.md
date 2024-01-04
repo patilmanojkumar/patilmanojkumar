@@ -21,9 +21,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> </a>
   <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="sas" width="40" height="40"/> </a>
-  <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://www.stata.com/includes/images/stata-logo-blue.svg" alt="stata" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/minitab" target="_blank" rel="noreferrer"> <img src="https://www.minitab.com/-/media/images/minitab/icons/favicon/favicon.png" alt="minitab" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/pages/tableau-logo-white_2x.png" alt="tableau" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" width="40" height="40"/> </a>
 </p>
