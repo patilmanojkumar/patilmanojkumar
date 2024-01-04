@@ -25,7 +25,7 @@
   <a href="https://www.microsoft.com/en-us/minitab" target="_blank" rel="noreferrer"> <img src="https://www.minitab.com/-/media/images/minitab/icons/favicon/favicon.png" alt="minitab" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/pages/tableau-logo-white_2x.png" alt="tableau" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://www.alteryx.com/sites/all/themes/alteryx/logo.png" alt="alteryx" width="40" height="40"/> </a>
+  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilmanojkumar&show_icons=true&locale=en&layout=compact" alt="patilmanojkumar" /></p>
