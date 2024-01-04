@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilmanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="patilmanojkumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/patilmanojkumar" target="blank"><img src="https://img.shields.io/twitter/follow/patilmanojkumar?logo=twitter&style=for-the-badge" alt="patilmanojkumar" /></a> </p>
+- 💬 Ask me about **Statistics, Python, R, Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Statistics, Python**
-
-- 📫 How to reach me **manojkumar.patil@email.com**
+- 📫 How to reach me **patil.manojkumar@hotmail.com**
 
 - ⚡ Fun fact **Passionate about agriculture and data-driven solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/manojkumarpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojkumarpatil" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manojkumar-patil-8bb365196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojkumarpatil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
